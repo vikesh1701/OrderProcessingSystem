@@ -1,0 +1,16 @@
+{
+  "customerId": "CUST001",
+  "status": "PENDING",
+  "items": [
+    {
+      "productName": "Apple iPhone 15",
+      "quantity": 1,
+      "price": 89999.00
+    },
+    {
+      "productName": "Apple iPhone 16",
+      "quantity": 1,
+      "price": 99999.00
+    }
+  ]
+}
